@@ -1,0 +1,5 @@
+﻿  maxProductArray.cpp
+c:\users\cayang\ninech\maxproductarray\maxproductarray\maxproductarray.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\cayang\ninech\maxproductarray\maxproductarray\maxproductarray.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  maxProductArray.vcxproj -> C:\Users\cayang\ninech\maxProductArray\Debug\maxProductArray.exe
+  maxProductArray.vcxproj -> C:\Users\cayang\ninech\maxProductArray\Debug\maxProductArray.pdb (Full PDB)
